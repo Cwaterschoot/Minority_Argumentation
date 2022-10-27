@@ -1,5 +1,7 @@
 # Minority_Argumentation_ClimateChange
 Repository for Detecting Minority Arguments for Mutual Understanding:  A Moderation Tool for the Online Climate Change Debate, presented at COLING 2022.
+Publication can be found here: https://aclanthology.org/2022.coling-1.583/. 
+
 
 The paper entails three scripts:
 
